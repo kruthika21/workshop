@@ -3,4 +3,8 @@ h1{
 }
 body{
 	background-color: black;
+	color: green;
+}
+p{
+	color: yellow;
 }
